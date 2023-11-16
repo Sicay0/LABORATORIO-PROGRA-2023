@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A15-S12-EASC-1179622/1.0.0": {
+        "runtime": {
+          "A15-S12-EASC-1179622.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A15-S12-EASC-1179622/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

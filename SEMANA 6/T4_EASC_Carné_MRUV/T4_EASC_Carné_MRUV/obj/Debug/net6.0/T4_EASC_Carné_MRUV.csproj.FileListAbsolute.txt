@@ -1,0 +1,15 @@
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\bin\Debug\net6.0\T4_EASC_Carné_MRUV.exe
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\bin\Debug\net6.0\T4_EASC_Carné_MRUV.deps.json
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\bin\Debug\net6.0\T4_EASC_Carné_MRUV.runtimeconfig.json
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\bin\Debug\net6.0\T4_EASC_Carné_MRUV.dll
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\bin\Debug\net6.0\T4_EASC_Carné_MRUV.pdb
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\obj\Debug\net6.0\T4_EASC_Carné_MRUV.csproj.AssemblyReference.cache
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\obj\Debug\net6.0\T4_EASC_Carné_MRUV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\obj\Debug\net6.0\T4_EASC_Carné_MRUV.AssemblyInfoInputs.cache
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\obj\Debug\net6.0\T4_EASC_Carné_MRUV.AssemblyInfo.cs
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\obj\Debug\net6.0\T4_EASC_Carné_MRUV.csproj.CoreCompileInputs.cache
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\obj\Debug\net6.0\T4_EASC_Carné_MRUV.dll
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\obj\Debug\net6.0\refint\T4_EASC_Carné_MRUV.dll
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\obj\Debug\net6.0\T4_EASC_Carné_MRUV.pdb
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\obj\Debug\net6.0\T4_EASC_Carné_MRUV.genruntimeconfig.cache
+C:\Users\sicay\source\repos\T4_EASC_Carné_MRUV\T4_EASC_Carné_MRUV\obj\Debug\net6.0\ref\T4_EASC_Carné_MRUV.dll

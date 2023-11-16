@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practica LAB_Semana 6_Emmanuel Sicay_1179622/1.0.0": {
+        "runtime": {
+          "Practica LAB_Semana 6_Emmanuel Sicay_1179622.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica LAB_Semana 6_Emmanuel Sicay_1179622/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
